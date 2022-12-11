@@ -12,7 +12,7 @@
 
 ## 1ºModulo
 
-- [Entradas]()
+- [Entradas](microbit/modulo1/actividad.md)
 
 ## 2ºModulo
 
