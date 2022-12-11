@@ -16,7 +16,7 @@
 
 ## 3ºModulo
 
-![Variables](microbit/modulo3/actividad.md)
+- [Variables](microbit/modulo3/actividad.md)
 
 ## 4ºModulo
 
