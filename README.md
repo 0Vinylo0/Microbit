@@ -2,7 +2,13 @@
 
 ## Introducción
 
-¿Qué es STEAM? ¿Qué es una placa Microbit?
+¿Qué es STEAM?
+
+- El término STEM es el acrónimo de los términos en inglés Science, Technology, Engineering and Mathematics. El término STEM, a secas, únicamente sirve para agrupar a las 4 grandes áreas de conocimiento en las que trabajan científicos e ingenieros.
+
+¿Qué es una placa Microbit?
+
+- Micro:bit es un dispositivo del tamaño de una tarjeta de crédito, compuesto por un ordenador de placa única (SBC) que cuenta con diversos sensores, varias entradas para anexar otros elementos de hardware y conexión inalámbrica mediante Bluetooth
 
 ## 1ºModulo
 
