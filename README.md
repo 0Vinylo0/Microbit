@@ -16,6 +16,8 @@
 
 ## 3ºModulo
 
+- [Variables]:microbit/modulo3/actividad.md
+
 ## 4ºModulo
 
 ## Proyecto
