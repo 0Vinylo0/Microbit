@@ -14,6 +14,8 @@
 
 ## 2ºModulo
 
+- [Entradas]()
+
 ## 3ºModulo
 
 - [Variables](microbit/modulo3/actividad.md)
