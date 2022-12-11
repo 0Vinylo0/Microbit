@@ -14,7 +14,7 @@
 
 ## 2ºModulo
 
-- [Entradas](microbit/modulo2/actividad.md)
+- [Reprodución](microbit/modulo2/actividad.md)
 
 ## 3ºModulo
 
