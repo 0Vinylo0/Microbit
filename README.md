@@ -12,6 +12,8 @@
 
 ## 1ºModulo
 
+- [Entradas]()
+
 ## 2ºModulo
 
 - [Reprodución](microbit/modulo2/actividad.md)
