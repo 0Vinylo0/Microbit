@@ -28,6 +28,8 @@
 
 ## Proyecto
 
+- [video del proyecto](https://www.youtube.com/watch?v=W40nJLxcYiQ)
+
 ## Autores
 
 Andrés del Pino Muñoz
